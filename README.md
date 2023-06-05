@@ -1,2 +1,2 @@
 # JavaExceptions
-Temel Try Catch örneği
+Basic Try Catch Example
